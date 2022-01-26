@@ -1,5 +1,5 @@
 # Python Password Generator
-# This project was made using Python library functions `string` & `random`.
+**This project was made using Python library functions `string` & `random`.**
 
 * `string.ascii_letters`
 	  - The concatenation of the ascii_lowercase and ascii_uppercase constants described below. This value is not locale-dependent.
