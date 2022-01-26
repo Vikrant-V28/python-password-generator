@@ -21,3 +21,6 @@
 
 * `string.punctuation`
 	  - String of ASCII characters which are considered punctuation characters in the C locale: `!"#$%&'()*+,-./:;<=>?@[\]^_{|}~`
+
+## *Author Name*
+[Vikrant](https://github.com/vikrant-v28)
